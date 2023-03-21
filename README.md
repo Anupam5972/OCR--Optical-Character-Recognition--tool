@@ -1,5 +1,3 @@
-# OCR-Text-Extraction
- 
 # OCR Image-to-Text Converter
 This Python script takes an image file with text content, converts it to text using Optical Character Recognition (OCR) technology and saves the text in a text file with the same name as the original image file but with '_Text' appended.
 
