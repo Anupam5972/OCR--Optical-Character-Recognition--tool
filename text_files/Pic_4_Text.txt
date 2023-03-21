@@ -1,0 +1,9 @@
+{8.46 Ata critical location in a shaft, the equivalent alternating stress is
+@., = 91.8 MPa, and the equivalent mean bending stress is
+
+= 102.4 MPa, The modified endurance limit $, = 239 MPa, the
+ae strength, S, = 700 MPa, and the yield strength, S, = 550 MPa.
+‘Assuming that Figure 8.16 shows a constant life fatigue diagram forth steel
+‘shaft, write the equation forthe load line and the equation for the strength line
+for 10° cycles of life. Determine the safety factor with respect to infinite life.
+
